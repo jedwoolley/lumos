@@ -2762,18 +2762,20 @@ input, select, textarea {
 			color: #544d55;
 		}
 
+
 		#header .logo {
-			background: #4eb980;
-			border-radius: 100%;
-			color: #ffffff;
+			/* background: #4eb980; */
+			/* border-radius: 100%; */
+			/* color: #ffffff; */
 			cursor: default;
 			display: inline-block;
-			font-size: 2.25em;
-			height: 2.35em;
-			line-height: 2.35em;
-			margin: 0 0 0.75em 0;
+			/* font-size: 2.25em; */
+			/* height: 2.35em; */
+			/* line-height: 2.35em; */
+			/* margin: 0 0 0.75em 0; */
 			text-align: center;
-			width: 2.35em;
+			/* width: 2.35em; */
+			width: 400px;
 		}
 
 			#header .logo.fa-paper-plane-o:before {
